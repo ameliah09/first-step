@@ -3,3 +3,5 @@
 I was able to create this from the video. 
 
 So much easier for beginners to learn when you are able to follow along with video.
+
+I was even able to add this file on  my mac 
